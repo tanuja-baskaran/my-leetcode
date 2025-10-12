@@ -1,3 +1,4 @@
+#Brute force method
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
         merged = nums1 + nums2
